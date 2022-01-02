@@ -1,0 +1,13 @@
+p{
+    background-color: rgb(196, 25, 25);
+    color: white;
+    margin: 40px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: black;
+    margin: 40px;
+    background-color: rgb(196, 25, 25);
+    text-transform: uppercase;
+}
