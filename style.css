@@ -16,3 +16,11 @@ div{
     padding: 20px;
     color: black;
 }
+h2{
+    text-align: center;
+    color: black;
+    background-color: brown;
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 40px;
+}
