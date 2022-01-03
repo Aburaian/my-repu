@@ -24,3 +24,12 @@ h2{
     text-transform: uppercase;
     margin: 40px;
 }
+h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+.love{
+    color: black;
+    background-color: blanchedalmond;
+    text-align: justify;
+}
